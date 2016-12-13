@@ -1,1 +1,2 @@
-# ShopifyTestBed
+# Liquid Theme DE Setup
+
