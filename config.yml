@@ -1,0 +1,12 @@
+---
+:api_key: 0a371043288a6e5daed884cf9b3594bf
+:password: c18f60f15916909bd7015b8fa85aca9f
+:store: agifttocat.myshopify.com
+:theme_id: 
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
